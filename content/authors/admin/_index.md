@@ -1,39 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Madeline Ohaus, B.A.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master's of Anthropology Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Denver
+  url: https://liberalarts.du.edu/anthropology
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My academic and research interests include LGBTQ+ history, preservation, and education. 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Museums
+- LGBTQ+ History
+- Community Engagement 
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MA in Anthropology
+    institution: University of Denver
+    year: In Progress
+  - course: BA in Anthropology
+    institution: Univeristy of Colorado Boulder
+    year: 2018
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,16 +43,10 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/madelineohaus
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/madeline-ohaus/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +62,7 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Madeline is an emerging museum professional with a background in archaeology, archival work, education, and guest services. She graduated from the University of Colorado Boulder in 2018 with a BA in Anthropology. Madeline came out as a member of the LGBTQ+ community in 2016 and is passionate about preserving LGBTQ+ history and documenting these stories for generations to come. She is currently a Master's of Anthropology student with a concentration in Museum and Heritage Studies at the University of Denver - focusing her work on LGBTQ+ representation within museum collections and exhibits. Alongside her studies, Madeline works as a Processing Assistant at The Dance Archive at DU. She also volunteers at the History Colorado Center with the Gill Foundation Associate Curator of LGBTQ+ History, Aaron Marcus, working closely with the museum's LGBTQ+ collecting initiative.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
