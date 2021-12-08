@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MA in Anthropology
+  - course: MA in Anthropology, Concentration in Museum and Heritage Studies
     institution: University of Denver
     year: In Progress
   - course: BA in Anthropology
