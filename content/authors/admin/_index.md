@@ -27,7 +27,7 @@ education:
   courses:
   - course: MA in Anthropology, Concentration in Museum and Heritage Studies
     institution: University of Denver
-    year: In Progress
+    year: 2023
   - course: BA in Anthropology
     institution: Univeristy of Colorado Boulder
     year: 2018
@@ -51,9 +51,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+icon_pack: ai
+link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -62,7 +62,9 @@ email: ""
 highlight_name: true
 ---
 
-Madeline is an emerging museum professional with a background in archaeology, archival work, education, and guest services. She graduated from the University of Colorado Boulder in 2018 with a BA in Anthropology. Madeline came out as a member of the LGBTQ+ community in 2016 and is passionate about preserving LGBTQ+ history and documenting these stories for generations to come. She is currently a Master's of Anthropology student with a concentration in Museum and Heritage Studies at the University of Denver - focusing her work on LGBTQ+ representation within museum collections and exhibits. Alongside her studies, Madeline works as a Processing Assistant at The Dance Archive at DU. She also volunteers at the History Colorado Center with the Gill Foundation Associate Curator of LGBTQ+ History, Aaron Marcus, working closely with the museum's LGBTQ+ collecting initiative.
+Madeline is an emerging museum professional specializing in collections, registration, curation, and education. 
+
+I recently completed my Master of Arts in Anthropology with a concentration in Museum and Heritage Studies at the University of Denver. My master's thesis, Queer is Here, Hopefully to Stay: The Incorporation and Reception of LGBTQ+ History at The History Colorado Center, used a critical museology, queer theory, and intersectional lens to explore the incorporation, development, and reception of LGBTQ+ history at History Colorado by employing museum ethnography and audience research and evaluation. I currently work as a Registration Assistant at the Denver Art Museum. In this role, I work closely with the Traveling Exhibits and Loan Registrars to ensure objects are correctly cataloged and ready for display or travel. In my career, I strive to make museum collections and exhibitions inclusive and accessible for underrepresented populations.
 
 
 

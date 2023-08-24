@@ -22,13 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Processing Assistant
+  - title: Registration Assistant
+    company: Denver Art Museum
+    company_url: ''
+    company_logo: 
+    location: Denver, CO
+    date_start: '2022-07-01'
+    date_end: 
+  
+  - title: Archival Processing Assistant
     company: The Dance Archive
     company_url: ''
     company_logo: 
     location: University of Denver
     date_start: '2021-08-01'
-    date_end: ''
+    date_end: '2022-07-01'
 
   - title: Graduate Teaching Assistant
     company: Department of Anthropology 
@@ -36,7 +44,7 @@ experience:
     company_logo: 
     location: University of Denver
     date_start: '2021-08-01'
-    date_end: ''
+    date_end: '2023-06-01'
 
   - title: Curatorial Services & Collections Access Intern
     company: History Colorado 
@@ -69,6 +77,13 @@ experience:
     location: Denver, CO
     date_start: '2019-08-01'
     date_end: '2020-05-01'
+
+  - title: Cultural Resources Field Technician
+    company: SWCA Environmental Consultants 
+    company_url: ''
+    company_logo: 
+    date_start: '2019-03-01'
+    date_end: '2020-07-01'
 
 
 
